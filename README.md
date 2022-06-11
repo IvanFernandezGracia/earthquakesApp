@@ -8,11 +8,13 @@ API consuming application that delivers earthquake data. These data are displaye
 ## Live Demo
 https://earthquakes-app.herokuapp.com/
 
-<!-- RUN -->
-## How to Run App Local Machine (React Server)
-1. Delete file `package.json`  
-2. Change name file  `package.json.dev` to  `package.json`
-3. npm run dev
+<!-- Table Pagintaion -->
+## Table Pagintaion
+![image](https://user-images.githubusercontent.com/48660555/173166259-0bcd5ef5-32dc-49bf-a966-22d69b26777b.png)
+
+<!-- chart Line -->
+## Chart Line
+![image](https://user-images.githubusercontent.com/48660555/173166283-edbf7253-cd50-4121-b0e8-d702d665392f.png)
 
 <!-- ROADMAP -->
 ## Tips
@@ -32,6 +34,13 @@ Arquitectura CLEAN para el frontend](https://daslaf.dev/posts/arquitectura-clean
 - [ ] **Architecture**: [Clean Architecture on Frontend
 ](https://dev.to/bespoyasov/clean-architecture-on-frontend-4311)
 - [ ] **API URL**: [between](https://api.gael.cloud/#sismos)
+
+<!-- RUN -->
+## How to Run App Local Machine (React Server)
+1. Delete file `package.json`  
+2. Change name file  `package.json.dev` to  `package.json`
+3. npm run dev
+
 
 <!-- Architecture -->
 ## Architecture
