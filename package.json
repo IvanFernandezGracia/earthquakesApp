@@ -1,0 +1,64 @@
+{
+  "name": "earthquakes",
+  "version": "1.0.0",
+  "author": {
+    "name": "Ivan Fernandez",
+    "email": "ivan.fernandez.g@usach.cl"
+  },
+  "description": "Features and Analitys about earthquakes ",
+  "keywords": [
+    "React",
+    "earthquakes"
+  ],
+  "main": "src/index.tsx",
+  "license": "MIT",
+  "dependencies": {
+    "@coreui/coreui": "^4.1.6",
+    "@coreui/react": "^4.2.2",
+    "@emotion/css": "^11.9.0",
+    "@faker-js/faker": "^7.2.0",
+    "@nivo/line": "^0.79.1",
+    "@types/faker": "^6.6.9",
+    "@types/recharts": "^1.8.23",
+    "@types/styled-components": "5.1.14",
+    "axios": "^0.27.2",
+    "bootstrap": "^5.1.3",
+    "chart.js": "^2.9.3",
+    "chartjs-react": "^3.5.0",
+    "faker": "^6.6.6",
+    "gridjs": "^5.0.2",
+    "gridjs-react": "^5.0.2",
+    "moment": "^2.29.3",
+    "moment-timezone": "^0.5.34",
+    "react": "^18.1.0",
+    "react-bootstrap": "^2.4.0",
+    "react-chartjs-2": "^2.9.0",
+    "react-dom": "^18.1.0",
+    "react-redux": "7.2.5",
+    "react-scripts": "4.0.3",
+    "react-vis": "^1.11.7",
+    "recharts": "^2.1.10",
+    "redux": "4.1.1",
+    "redux-thunk": "2.3.0",
+    "styled-components": "5.3.1",
+    "ts-transformer-keys": "^0.4.3"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.12",
+    "@types/react-dom": "^18.0.5",
+    "@types/react-vis": "^1.11.11",
+    "typescript": "4.4.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
